@@ -1,7 +1,7 @@
 <h1 align="center"> Hai There! 👋 I'm Yashwa </h1> 
  
 [![Linkedin Badge](https://img.shields.io/badge/-YESHWANTHINI_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeshwanthini-s/)](https://www.linkedin.com/in/yeshwanthini-s/)
-[![Medium Badge](https://img.shields.io/badge/-YESHWANTHINI_S-white?style=flat-square&labelColor=white&logo=medium&logoColor=black&link=https://medium.com/@yeshwanthini_s)](https://medium.com/@yeshwanthini_s)
+[![Medium Badge](https://img.shields.io/badge/-yeshwanthini-s-white?style=flat-square&labelColor=white&logo=medium&logoColor=black&link=https://yeshwanthini-s.medium.com/)](https://yeshwanthini-s.medium.com/)
   
 <!--
 **YASHWANTHINI/YASHWANTHINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

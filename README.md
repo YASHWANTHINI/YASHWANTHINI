@@ -1,7 +1,6 @@
 <h1 align="center"> Hai There! 👋 I'm Yashwa </h1> 
  
 [![Linkedin Badge](https://img.shields.io/badge/-YESHWANTHINI_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeshwanthini-s/)](https://www.linkedin.com/in/yeshwanthini-s/)
-[![Medium Badge](https://img.shields.io/badge/-yeshwanthini-s-white?style=flat-square&labelColor=white&logo=medium&logoColor=black&link=https://yeshwanthini-s.medium.com/)](https://yeshwanthini-s.medium.com/)
   
 <!--
 **YASHWANTHINI/YASHWANTHINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 |---|---|---|---|
 |CSCU (94%) | Malware Analysis | Cyber Attack Vector | CyberSecurity Essential|
 
-## Fun Facts: I'm a Graphics Designer and Content Writer.
+## Fun Facts: I'm a Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security.
 
 

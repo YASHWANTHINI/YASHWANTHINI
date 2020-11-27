@@ -9,16 +9,17 @@ Here are some ideas to get you started:
 -->
 ### 📚 Currently I am a final year engineering student in Computer Science.
 ### 🌱 InfoSec Enthusiast, SQL learner. 
-### ⚡ I have skills in Web pentesting, malware analysis, bug hunting and plan to learn pentesting in Mobile, Cloud and Networking.
+### ⚡ I have skills in MySQL querying, Web Pentesting and bug hunting.
 
 ## My Certifications
-| EC-Council |Cybrary| Coursera | CISCO NetAcad | 
-|---|---|---|---|
-|CSCU (94%) | Malware Analysis | Cyber Attack Vector | CyberSecurity Essential|
+| EC-Council |Cybrary| Coursera | CISCO NetAcad | IBM |
+|---|---|---|---|---|
+|CSCU (94%) | Malware Analysis | Cyber Attack Vector | CyberSecurity Essential| Data Science foundation|
 
-## Fun Facts: I'm a Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
+## Fun Facts: I'm a Securtiy Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S) Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security, SQL.
 
+#### See my SQL Query level @ [Hackerrank](https://www.hackerrank.com/h953617104054?hr_r=1)
 
 <h4>Visitor's count :eyes:</h4>
 <p><img src="https://profile-counter.glitch.me/{YASHWANTHINI}/count.svg" alt="YASH" :: Visitor's Count" /></p>

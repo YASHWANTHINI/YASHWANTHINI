@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 |CSCU (94%) | Malware Analysis | Cyber Attack Vector | CyberSecurity Essential|
 
 ## Fun Facts: I'm a Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
-#### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security.
+#### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security, SQL.
 
 
 <h4>Visitor's count :eyes:</h4>

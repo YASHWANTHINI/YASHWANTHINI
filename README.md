@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 ### 📚 Currently I am a final year engineering student in Computer Science.
-### 🌱 I’m consistent in learning Cyber Security, Cyber Forensics. 
+### 🌱 InfoSec Enthusiast, SQL learner. 
 ### ⚡ I have skills in Web pentesting, malware analysis, bug hunting and plan to learn pentesting in Mobile, Cloud and Networking.
 
 ## My Certifications

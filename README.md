@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 |---|---|---|---|---|
 |CSCU (94%) | Malware Analysis | Cyber Attack Vector | CyberSecurity Essential| Data Science foundation|
 
-## Fun Facts: I'm a Securtiy Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S) Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
+## Fun Facts: I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S) Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security, SQL.
 
 #### See my SQL Query level @ [Hackerrank](https://www.hackerrank.com/h953617104054?hr_r=1)

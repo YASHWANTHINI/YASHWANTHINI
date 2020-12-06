@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Fun Facts: I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S) Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security, SQL.
-### Got Badge from Hactoberfest2020 challenge.
+### Got Badge for Hactoberfest2020 challenge.
 
 #### See my SQL Query level @ [Hackerrank](https://www.hackerrank.com/h953617104054?hr_r=1)
 

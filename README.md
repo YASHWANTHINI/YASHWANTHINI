@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## My Certifications
 | EC-Council |Cybrary| Coursera | CISCO NetAcad | IBM |
 |---|---|---|---|---|
-|CSCU (94%) | Malware Analysis | Cyber Attack Vector | CyberSecurity Essential| Data Science foundation|
+|CSCU (94%) | Malware Analysis & PTES | Cyber Attack Vector | CyberSecurity Essential| Data Science foundation|
 
 ## Fun Facts: I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S) Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge focused on Cyber Security, SQL.

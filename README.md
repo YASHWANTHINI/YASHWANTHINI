@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 ### 📚 Currently I am a final year engineering student in Computer Science.
-### 🌱 Learner, Engineering Entusiast. 
+### 🌱 Learner, Engineering Enthusiast. 
 ### ⚡ I have skills in MySQL querying, Web Pentesting and bug hunting.
 
 ## My Certifications

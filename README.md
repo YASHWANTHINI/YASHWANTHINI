@@ -1,6 +1,8 @@
 <h1 align="center"> Hai There! 👋 I'm Yashwa </h1> 
  
 [![Linkedin Badge](https://img.shields.io/badge/-YESHWANTHINI_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeshwanthini-s/)](https://www.linkedin.com/in/yeshwanthini-s/)
+
+[![Medium Badge](https://img.shields.io/badge/yeshwanthini-s-black?style=for-the-badge&logo=medium&logoColor=white&link=https://yeshwanthini-s.medium.com/)](https://yeshwanthini-s.medium.com/)
   
 <!--
 **YASHWANTHINI/YASHWANTHINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +20,6 @@ Here are some ideas to get you started:
 #### Fun Facts: I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S), Technical Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge, focused on CS.
 #### Got Badge for Hactoberfest2020 challenge.
-#### See my Professional details @ [LinkedIn](https://in.linkedin.com/in/yeshwanthini-s)
 
 <h4>Visitor's count :eyes:</h4>
 <p><img src="https://profile-counter.glitch.me/{YASHWANTHINI}/count.svg" alt="YASH" :: Visitor's Count" /></p>

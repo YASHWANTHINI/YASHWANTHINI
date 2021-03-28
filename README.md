@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-### 📚 Currently I am a final year engineering student in Computer Science.
+### 📚 Currently I am a final year Computer Science engineering student in Ramco Institute of Technology.
 ### 🌱 Learner, Engineering Enthusiast. 
 ### ⚡ I have skills in Web design and dev, Graphics design(UI, Events), Content Writing.
 

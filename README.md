@@ -9,19 +9,19 @@ Here are some ideas to get you started:
 -->
 ### 📚 Currently I am a final year engineering student in Computer Science.
 ### 🌱 Learner, Engineering Enthusiast. 
-### ⚡ I have skills in Web design and dev, Graphics design, Content Writing.
+### ⚡ I have skills in Web design and dev, Graphics design(UI, Events), Content Writing.
 
-## My Certifications
+### I have done some courses in
 | EC-Council |Cybrary| Coursera | CISCO NetAcad | IBM |
-|---|---|---|---|---|
-|CSCU (94%) | Malware Analysis & PTES | Cyber Attack Vector | CyberSecurity Essential| Data Science foundation|
 
-## Fun Facts: I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S) Graphics Designer and Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
+
+## Fun Facts: I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S), Technical Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge, focused on CS.
 ### Got Badge for Hactoberfest2020 challenge.
 
 #### See my SQL Query level @ [Hackerrank](https://www.hackerrank.com/h953617104054?hr_r=1)
 #### See my @ [MERN Repo](https://github.com/YASHWANTHINI/MERN-PROJECT)
+#### See my Professional details @ [LinkedIn](https://in.linkedin.com/in/yeshwanthini-s)
 
 <h4>Visitor's count :eyes:</h4>
 <p><img src="https://profile-counter.glitch.me/{YASHWANTHINI}/count.svg" alt="YASH" :: Visitor's Count" /></p>

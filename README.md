@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ##### 📝 Technical Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
 #### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge, focused on CS.
 #### Got Badge for Hactoberfest2020 challenge.
+![Badge](https://user-images.githubusercontent.com/58984578/116878752-69074a00-ac3d-11eb-99bc-2a85c7e68639.png)
+
 
 <h4>Visitor's count :eyes:</h4>
 <p><img src="https://profile-counter.glitch.me/{YASHWANTHINI}/count.svg" alt="YASH" :: Visitor's Count" /></p>

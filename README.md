@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 |---|---|---|---|---|
 
 #### Fun Facts 🤜🤛  
-##### I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S), 
-##### 📝 Technical Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
-#### Challenge: "I am doing the [LearnToGain](https://github.com/YASHWANTHINI/Learn_to_Gain) challenge, focused on CS.
+#### I'm a Security Researcher @ [BugCrowd](https://bugcrowd.com/YESHWANTHINI_S), 
+#### 📝 Technical Content Writer @ [Medium](https://yeshwanthini-s.medium.com/).
+#### Got Gold level badge in [Hackerrank](https://www.hackerrank.com/h953617104054).
 #### Got Badge for Hactoberfest2020 challenge.
 ![Badge](https://user-images.githubusercontent.com/58984578/116878752-69074a00-ac3d-11eb-99bc-2a85c7e68639.png)
 

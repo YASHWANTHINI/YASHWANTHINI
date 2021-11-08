@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### Got Badge for Hactoberfest2020 challenge.
 ![Badge](https://user-images.githubusercontent.com/58984578/116878752-69074a00-ac3d-11eb-99bc-2a85c7e68639.png)
 
-
+<a href="https://app.daily.dev/yashmeera"><img src="https://api.daily.dev/devcards/403965df808f49e185a58b1a6030a05a.png?r=rbv" width="400" alt="YESHWANTHINI S's Dev Card"/></a>
 
 
 <h4>Visitor's count :eyes:</h4>

@@ -10,9 +10,9 @@
 
 Here are some ideas to get you started:
 -->
-### 📚 Software Engineer | Fresher @Ramco Cements IT.
+### 📚 Software Engineer | Developer @Ramco Cements IT.
 ### 🌱 Learner, Engineering Enthusiast. 
-### ⚡ I have skills in Web design and dev, Graphics design(UI, Events), Content Writing.
+### ⚡ I have skills in Web design and dev, Graphics design(UI, Posters), Content Writing.
 #### 🚀 I have done some courses in
 | EC-Council |Cybrary| Coursera | CISCO NetAcad | IBM |
 |---|---|---|---|---|

@@ -9,7 +9,7 @@
 **YASHWANTHINI/YASHWANTHINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 ### 📚 Software Engineer | Developer @Ramco Cements IT.
 ### 🌱 Learner, Engineering Enthusiast. 
 ### ⚡ I have skills in Web design and dev, Graphics design(UI, Posters), Content Writing.
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 
 <h4>Visitor's count :eyes:</h4>
 <p><img src="https://profile-counter.glitch.me/{YASHWANTHINI}/count.svg" alt="YASH" :: Visitor's Count" /></p>
--->Still under construction and updated soon.
+Still under construction and updated soon.
+-->
